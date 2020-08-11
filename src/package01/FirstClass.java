@@ -20,6 +20,8 @@ public class FirstClass {
 	        System.out.println("first commit from sinan branch");
 	        
 	        System.out.println("The second commit from local sinan");
+	        
+	        System.out.println("The third commit from local sinan");
 	}
 
 }
