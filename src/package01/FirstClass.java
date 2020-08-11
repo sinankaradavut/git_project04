@@ -16,7 +16,8 @@ public class FirstClass {
 	
 		
 	        System.out.println("This is the secondd commit from remote master");
-
+            
+	        System.out.println("first commit from sinan branch");
 	}
 
 }
