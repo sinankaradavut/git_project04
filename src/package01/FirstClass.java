@@ -22,6 +22,8 @@ public class FirstClass {
 	        System.out.println("The second commit from local sinan");
 	        
 	        System.out.println("The third commit from local sinan");
+		System.out.println("This is our conflict");
+	}
 	}
 
 }
